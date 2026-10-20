@@ -1,0 +1,7 @@
+[2026-10-20T10:06:52Z] === AST ITERATION 1 START | repo=simonw/datasette-leaflet sha=339d9931 ===
+[2026-10-20T10:06:52Z] [iter=1] PHASE START: ast repo=simonw/datasette-leaflet sha=339d9931
+[2026-10-20T10:06:52Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T10:07:29Z] [iter=1] AST chunks built count=1 triples=389739
+[2026-10-20T10:07:29Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/339d9931326cf0dce22f6a950fd202fb1c4f04db/.complete
+[2026-10-20T10:07:29Z] [iter=1] PHASE END: ast elapsed_s=37 elapsed_min=0.6
+[2026-10-20T10:07:29Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
